@@ -1,8 +1,7 @@
 <h2 align="center">DevLinks</h2>
 <br>
-<a href="https://ju7iana.github.io/devlinks/" target="_blank">Link do projeto</a>
+<a align="center" href="https://ju7iana.github.io/devlinks/" target="_blank">Link do projeto</a>
 
-<p align="center">Projeto promovido pela Rocketseat</p>
 <br>
 <p aling="center">
 <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
@@ -16,4 +15,5 @@
 <li>Git e GitHub</li>
 <li>Figma</li>
 </ul>
+<p align="center">Projeto promovido pela Rocketseat</p>
 </p>
