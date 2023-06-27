@@ -1,4 +1,6 @@
 <h2 align="center">DevLinks</h2>
+<br>
+<a href="https://ju7iana.github.io/devlinks/" target="_blank">Link do projeto</a>
 
 <p align="center">Projeto promovido pela Rocketseat</p>
 <br>
