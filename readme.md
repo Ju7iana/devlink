@@ -1,6 +1,7 @@
 <h2 align="center">DevLinks</h2>
 <br>
-<a align="center" href="https://ju7iana.github.io/devlinks/" target="_blank">Link do projeto</a>
+<p aling="center">
+<a href="https://ju7iana.github.io/devlinks/" target="_blank">Link do projeto</a>
 
 <br>
 <p aling="center">
